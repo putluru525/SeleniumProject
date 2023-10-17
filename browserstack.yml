@@ -1,0 +1,6 @@
+os: Windows
+osVersion: 11
+browserName: Edge
+browserVersion: latest
+edge:
+  enablePopups: false

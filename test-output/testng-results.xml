@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-17T08:46:32 IST" name="Suite" finished-at="2023-10-17T08:47:25 IST" duration-ms="53130">
+    <groups>
+    </groups>
+    <test started-at="2023-10-17T08:46:32 IST" name="Test" finished-at="2023-10-17T08:47:25 IST" duration-ms="53130">
+      <class name="com.inetbanking.pageObjects.TC_NewCustomer_003">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.inetbanking.pageObjects.TC_NewCustomer_003@5032714f]" started-at="2023-10-17T08:46:32 IST" name="setup" finished-at="2023-10-17T08:46:44 IST" duration-ms="12028" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="addCustomer()[pri:0, instance:com.inetbanking.pageObjects.TC_NewCustomer_003@5032714f]" started-at="2023-10-17T08:46:44 IST" name="addCustomer" finished-at="2023-10-17T08:47:25 IST" duration-ms="40637" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCustomer -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.inetbanking.pageObjects.TC_NewCustomer_003@5032714f]" started-at="2023-10-17T08:47:25 IST" name="teardown" finished-at="2023-10-17T08:47:25 IST" duration-ms="431" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.inetbanking.pageObjects.TC_NewCustomer_003 -->
+      <class name="com.inetbanking.pageObjects.TC_NewAccount_004">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.inetbanking.pageObjects.TC_NewAccount_004@5b218417]" started-at="2023-10-17T08:46:32 IST" name="setup" finished-at="2023-10-17T08:46:44 IST" duration-ms="12251" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="NewAccount()[pri:0, instance:com.inetbanking.pageObjects.TC_NewAccount_004@5b218417]" started-at="2023-10-17T08:46:44 IST" name="NewAccount" finished-at="2023-10-17T08:47:09 IST" duration-ms="25056" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NewAccount -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.inetbanking.pageObjects.TC_NewAccount_004@5b218417]" started-at="2023-10-17T08:47:09 IST" name="teardown" finished-at="2023-10-17T08:47:10 IST" duration-ms="772" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.inetbanking.pageObjects.TC_NewAccount_004 -->
+      <class name="com.inetbanking.pageObjects.TC_LoginTestDDT_002">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.inetbanking.pageObjects.TC_LoginTestDDT_002@48bb62]" started-at="2023-10-17T08:46:32 IST" name="setup" finished-at="2023-10-17T08:46:36 IST" duration-ms="3814" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="DDT()[pri:0, instance:com.inetbanking.pageObjects.TC_LoginTestDDT_002@48bb62]" started-at="2023-10-17T08:46:36 IST" name="DDT" finished-at="2023-10-17T08:47:24 IST" duration-ms="47842" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DDT -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.inetbanking.pageObjects.TC_LoginTestDDT_002@48bb62]" started-at="2023-10-17T08:47:24 IST" name="teardown" finished-at="2023-10-17T08:47:24 IST" duration-ms="333" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.inetbanking.pageObjects.TC_LoginTestDDT_002 -->
+      <class name="com.inetbanking.pageObjects.TC_LoginTest_001">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.inetbanking.pageObjects.TC_LoginTest_001@353352b6]" started-at="2023-10-17T08:46:32 IST" name="setup" finished-at="2023-10-17T08:46:36 IST" duration-ms="3814" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginTest()[pri:0, instance:com.inetbanking.pageObjects.TC_LoginTest_001@353352b6]" started-at="2023-10-17T08:46:36 IST" name="loginTest" finished-at="2023-10-17T08:46:43 IST" duration-ms="7371" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.inetbanking.pageObjects.TC_LoginTest_001@353352b6]" started-at="2023-10-17T08:46:43 IST" name="teardown" finished-at="2023-10-17T08:46:44 IST" duration-ms="316" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.inetbanking.pageObjects.TC_LoginTest_001 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
