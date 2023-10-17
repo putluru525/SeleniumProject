@@ -28,7 +28,7 @@ public class TC_LoginTest_001 {
 @Test
 public void loginTest() {
 	driver.get(baseURL);
-	driver.findElement(By.name("uid")).sendKeys(username);;
+	driver.findElement(By.name("uid")).sendKeys(username);
 	driver.findElement(By.name("password")).sendKeys(password);
 	driver.findElement(By.name("btnLogin")).click();
 	if(driver.getTitle().equals("Guru99 Bank Manager HomePage")) {
